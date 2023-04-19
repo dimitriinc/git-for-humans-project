@@ -2,8 +2,10 @@ body {
 	font-family: 'source-sans-pro', Arial, sans-serif;
 	font-size: 100%;
 	text-align: center;
+	background-color: aliceblue;
 }
 
 h1 {
 	background-color: blue;
+	text-transform: uppercase;
 }
